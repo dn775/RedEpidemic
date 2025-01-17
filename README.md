@@ -1,1 +1,1 @@
-# RedEpidemic.github.io
+# RedEpidemic
